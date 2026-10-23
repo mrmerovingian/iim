@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3072" height="1024" viewBox="0 0 1536 512" role="img" aria-labelledby="title">
+  <title id="title">IIM — horizontal, white-on-black</title>
+  <desc>Independent Intelligence Manifesto. Two equal trajectories share an origin and continue along their own paths.</desc>
+  <rect id="background" width="1536" height="512" fill="#000000"/>
+  <path id="iim-symbol" transform="translate(199.165144 -46.834856) scale(0.591474)" fill="#ffffff" d="M 208.49982 772.324282 L 534.49982 207.675718 L 610.710056 251.675718 L 427.667991 568.713874 A 304 304 0 0 1 507.771543 557.970453 H 815.50018 V 645.970453 H 507.771543 A 216 216 0 0 0 320.710056 753.970453 L 284.710056 816.324282 Z"/>
+  <g id="iim-wordmark" fill="#ffffff" aria-label="IIM">
+    <path id="letter-I-first" d="M 793.512565 148 H 881.512565 V 180 H 853.512565 V 332 H 881.512565 V 364 H 793.512565 V 332 H 821.512565 V 180 H 793.512565 Z"/>
+    <path id="letter-I-second" d="M 915.512565 148 H 1003.512565 V 180 H 975.512565 V 332 H 1003.512565 V 364 H 915.512565 V 332 H 943.512565 V 180 H 915.512565 Z"/>
+    <path id="letter-M" d="M 1037.512565 364 L 1037.512565 148 L 1073.512565 148 L 1125.512565 252 L 1177.512565 148 L 1213.512565 148 L 1213.512565 364 L 1181.512565 364 L 1181.512565 210 L 1138.512565 296 L 1112.512565 296 L 1069.512565 210 L 1069.512565 364 Z"/>
+  </g>
+</svg>

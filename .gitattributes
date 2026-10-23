@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+*.md text whitespace=-blank-at-eol
+*.svg text
+*.png binary
